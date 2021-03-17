@@ -1,0 +1,4 @@
+shortcuts
+ctrl + shift + p 
+ctrl + shift + e
+ctrl + b
